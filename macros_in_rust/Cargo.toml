@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+answer_macro={path="./answer_macro"}
+sql_macro={path="./sql_macro"}
+attribute_macro={path="./attribute_macro"}
